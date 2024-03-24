@@ -8,7 +8,7 @@ I'm a Computer Engineering student with interests in data structures & algorithm
 ## Interests
 - 👀 I'm interested in **Data Structures & Algorithms**, **Machine Learning**, and **Data Science**.
 - 🌱 I'm currently learning **PostgreSQL**.
-- 💞️ I'm looking to collaborate on projects related to **Web Development**, **Machine Learning models**, and **Data Analysis**.
+- 🚀 I'm looking to collaborate on projects related to **Web Development**, **Machine Learning models**, and **Data Analysis**.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmed-m-31968bba/).
 
 <!-- Skills -->
@@ -24,7 +24,7 @@ I'm a Computer Engineering student with interests in data structures & algorithm
 <!-- Gifs -->
 ## Currently;
 ![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Complex Numbers Gif](https://media.giphy.com/media/RrVzUOXldFe8I/giphy.gif)
+![Tech_Gif](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij)
 
 
 <!-- GitHub Stats -->
