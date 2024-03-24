@@ -22,9 +22,8 @@ I'm a Computer Engineering student with interests in data structures & algorithm
 - **Xilinx 14.7 ISE**
 
 <!-- Gifs -->
-## Currently;
+## Techspace
 ![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Tech_Gif](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij)
 
 
 <!-- GitHub Stats -->
