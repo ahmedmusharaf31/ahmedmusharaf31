@@ -2,7 +2,7 @@
 # Hi there, I'm Ahmed Musharaf! 👋
 
 <!-- Introduction -->
-I'm a Computer Engineering student with interests in data structures & algorithms, machine learning and data science. I'm passionate about exploring new technologies and solving challenging problems.
+I'm a Computer Engineering student with interests in data structures & algorithms, machine learning, and data science. I'm passionate about exploring new technologies and solving challenging problems.
 
 <!-- Interests -->
 ## Interests
@@ -20,6 +20,12 @@ I'm a Computer Engineering student with interests in data structures & algorithm
 - **PostgreSQL**
 - **NI Multisim**
 - **Xilinx 14.7 ISE**
+
+<!-- Gifs -->
+## Gifs
+![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Machine Learning Gif](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
+![Data Science Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
