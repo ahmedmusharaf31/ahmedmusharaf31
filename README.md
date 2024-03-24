@@ -24,7 +24,7 @@ I'm a Computer Engineering student with interests in data structures & algorithm
 <!-- Gifs -->
 ## Gifs
 ![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Data Science Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Mathematical Gif](https://media.giphy.com/media/l3q2JJKJUf3v28cKs/giphy.gif)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
