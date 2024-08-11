@@ -2,7 +2,7 @@
 # Hi there, I'm Ahmed Musharaf! 👋
 
 <!-- Introduction -->
-I'm a Computer Engineering student with interests in data structures & algorithms, machine learning, and data science. I'm passionate about exploring new technologies and solving challenging problems.
+I'm a Computer Engineering student with interests in Data Structures & Algorithms, Machine Learning, and Web Development. I'm passionate about exploring new technologies and solving challenging problems.
 
 <!-- Interests -->
 ## Interests
