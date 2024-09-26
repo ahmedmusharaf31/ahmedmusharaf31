@@ -23,7 +23,7 @@
 
 | Language/Tools | Technology/Frameworks | Other Skills |
 | :---: | :---: | :---: |
-| C++, C, Python | React.js | NI Multisim |
+| C, C++, Python | React.js | NI Multisim |
 | PostgreSQL | HTML, CSS, JavaScript | Xilinx 14.7 ISE |
 
 ---
