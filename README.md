@@ -10,6 +10,7 @@ I'm a Computer Engineering student with interests in Competitive Programming and
 - 🌱 I'm currently learning **Verilog (Xilinx 14.7 ISE)**.
 - 🚀 I'm looking to collaborate on projects related to **Machine Learning**, and **Deep Learning**.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmed-musharaf/).
+- 🏫 Connect with me at [Codeforces](https://codeforces.com/profile/faded_AM)
 
 <!-- Skills -->
 ## Skills
