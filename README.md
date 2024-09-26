@@ -2,14 +2,14 @@
 # Hi there, I'm Ahmed Musharaf! 👋
 
 <!-- Introduction -->
-I'm a Computer Engineering student with interests in Data Structures & Algorithms, Machine Learning, and Web Development. I'm passionate about exploring new technologies and solving challenging problems.
+I'm a Computer Engineering student with interests in Competitive Programming and Machine Learning. I'm passionate about exploring new technologies and solving challenging problems.
 
 <!-- Interests -->
 ## Interests
-- 👀 I'm interested in **Data Structures & Algorithms**, **Machine Learning**, and **Data Science**.
-- 🌱 I'm currently learning **PostgreSQL**.
-- 🚀 I'm looking to collaborate on projects related to **Web Development**, **Machine Learning models**, and **Data Analysis**.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmed-m-31968bba/).
+- 👀 I'm interested in **Data Structures & Algorithms**, **Deep Learning**, and **Large Language Models(LLMs)**.
+- 🌱 I'm currently learning **Verilog (Xilinx 14.7 ISE)**.
+- 🚀 I'm looking to collaborate on projects related to **Machine Learning**, and **Deep Learning**.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmed-musharaf/).
 
 <!-- Skills -->
 ## Skills
@@ -36,5 +36,5 @@ I'm a Computer Engineering student with interests in Data Structures & Algorithm
 
 <!-- Footer -->
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-m-31968bba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-musharaf/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/profile.php?id=100005266099290)
