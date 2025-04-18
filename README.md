@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Ahmed Musharaf! 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed Musharaf!</h1>
 
 <!-- Introduction -->
 <p align="center">
