@@ -35,8 +35,8 @@
   <a href="https://www.linkedin.com/in/ahmedmusharaf/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100005266099290">
-    <img src="https://img.shields.io/badge/Facebook-Connect-blue" alt="Facebook" />
+  <a href="https://leetcode.com/u/ahmedxgram/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/faded_AM">
     <img src="https://img.shields.io/badge/Codeforces-Profile-orange" alt="Codeforces" />
