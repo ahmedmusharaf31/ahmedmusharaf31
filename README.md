@@ -9,7 +9,7 @@
 ---
 
 <!-- Interests Section -->
-## 🧐 Interests
+## Interests
 - **Data Structures & Algorithms**
 - **Deep Learning**
 - **Large Language Models (LLMs)**
@@ -19,7 +19,7 @@
 ---
 
 <!-- Skills Section -->
-## 🚀 Skills
+## Skills
 
 | Language/Tools | Technology/Frameworks | Other Skills |
 | :---: | :---: | :---: |
@@ -29,7 +29,7 @@
 ---
 
 <!-- Contact Section -->
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedmusharaf/">
@@ -46,7 +46,7 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmusharaf31&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -57,7 +57,7 @@
 ---
 
 <!-- Techspace Section -->
-## 💻 Techspace
+## Techspace
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="500"/>
