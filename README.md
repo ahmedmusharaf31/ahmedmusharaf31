@@ -14,7 +14,6 @@
 - **Deep Learning**
 - **Large Language Models (LLMs)**
 - Currently learning **Verilog (Xilinx 14.7 ISE)**
-- Open to collaborations in **Machine Learning** and **Deep Learning**
 
 ---
 
