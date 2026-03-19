@@ -13,7 +13,7 @@
 - **Data Structures & Algorithms**
 - **Deep Learning**
 - **Large Language Models (LLMs)**
-- Currently learning **Verilog (Xilinx 14.7 ISE)**
+- Currently learning **SystemVerilog for Design and Verification**
 
 ---
 
