@@ -12,7 +12,6 @@
 ## Interests
 - **Data Structures & Algorithms**
 - **Deep Learning**
-- **Large Language Models (LLMs)**
 - Currently learning **SystemVerilog for Design and Verification**
 
 ---
